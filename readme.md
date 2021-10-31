@@ -1,5 +1,9 @@
-﻿solitaire with ball
+# solitaire with ball
+============
+
 Lounge Lizard dev
+--------------
+
 This document entitled, is made available under the terms of
 the Creative Commons license. You can copy, modify copies of this
 source, under the conditions set by the license, as long as this note
@@ -19,3 +23,10 @@ The 36-ball game is not.
 <br /> A backspace button has been
 added
 <br /> Have fun
+
+How to install :
+--------
+
+Run SolitaireBilles.sln
+
+Need .Net insatll
