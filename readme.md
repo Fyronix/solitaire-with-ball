@@ -14,8 +14,8 @@ Description:
 
 The game of solitaire: a classic
 <br /> The goal is to take the hori marbles
-zontally or vertically so that at the end there is only one s
-eule.
+horizontally or vertically so that at the end there is only one s
+rule.
 <br /> Only one marble is taken at a time.
 <br /> In the 3-player game
 2 marbles all squares can be a starting position while in the
@@ -29,4 +29,4 @@ How to install :
 
 Run SolitaireBilles.sln
 
-Need .Net insatll
+Need .Net installed
